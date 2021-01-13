@@ -7,7 +7,7 @@ This project is owned by Shivansh Upadhyay and it's totally his Idea to make an 
  <br>
  
  ## Why The artworks are so cheap do they are original or high quality?
- Since it is an online store developed by Shivansh Upadhyay initially and his vision is that to provide artworks for everybody by cutting costs on all possible ways.
+ Since it is an online store developed by Shivansh Upadhyay initially and his vision is that to provide artworks for everybody by cutting costs on all possible ways. Since we don't have our any retail or physical store so every Artwork is directly get from the user and get it's suitable frame and delivered to customer.
  <br>
 
  ## Who makes this artworks?
