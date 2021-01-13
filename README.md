@@ -24,4 +24,4 @@ A platform is no more a platform without it's partners and Customers. Yes, You h
 
 <hr>
 
-### Note: This project comes under copyright and if any one steals any of the behaviour of UI and functioning of this Website or try to make a clone or duplicate it will be sued and there will be a proper court case in Varanasi, Uttar Pradesh Jurisdiction only.
+### Note: This project comes under copyright of github [url](https://github.com/shivanshupadhyay/BoomArt) and if any one steals any of the behaviour of UI and functioning of this Website or try to make a clone or duplicate it will be sued and there will be a proper court case in Varanasi, Uttar Pradesh Jurisdiction only.
